@@ -5,8 +5,8 @@ This project showcases an HR database built using SQL with structured tables, fo
 2. Table design with primary & foreign keys
 3. Data insertion using `INSERT`
 4. Joins (INNER, LEFT, RIGHT, Self Join)
-5.  UNION and UNION ALL
-6. String and date functions
+5. UNION and UNION ALL
+6. SQL functions
 # Database Schema
 Tables used:
 * employees
