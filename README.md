@@ -26,4 +26,7 @@ Tables used:
 - Which department’s employees appear twice for payroll audit simulation?
 - What is the length of each employee’s full name (for formatting checks)?
 
+##  How to Run
+1. Run `hr_database.sql`
+2. Run `queries.sql`
 
